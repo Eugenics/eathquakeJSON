@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eathquakeJSON", "eathquakeJSON.csproj", "{7C703426-E4C9-424B-AF7C-A3E31129FB31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C703426-E4C9-424B-AF7C-A3E31129FB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C703426-E4C9-424B-AF7C-A3E31129FB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C703426-E4C9-424B-AF7C-A3E31129FB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C703426-E4C9-424B-AF7C-A3E31129FB31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB55C824-FE6C-4617-A331-568308BF266B}
+	EndGlobalSection
+EndGlobal
